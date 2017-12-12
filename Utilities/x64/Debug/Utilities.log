@@ -1,0 +1,30 @@
+﻿  MeshSlicer.cpp
+c:\code\mesheditor\utilities\src\topology\meshslicer.cpp(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\topology\meshslicer.cpp(154): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HyperbolicCoveringSpace.cpp
+c:\code\mesheditor\utilities\src\topology\hyperboliccoveringspace.cpp(30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\topology\hyperboliccoveringspace.cpp(46): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+  EuclideanCoveringSpace.cpp
+c:\code\mesheditor\utilities\src\topology\euclideancoveringspace.cpp(27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\topology\euclideancoveringspace.cpp(43): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+  PointSphere.cpp
+  StringParser.cpp
+  MeshMerger.cpp
+c:\code\mesheditor\utilities\src\meshmerger.cpp(26): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+  MeshMarker.cpp
+  MeshFormConverter.cpp
+c:\code\mesheditor\utilities\src\meshformconverter.cpp(5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\meshformconverter.cpp(8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\meshformconverter.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\meshformconverter.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\meshformconverter.cpp(86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\meshformconverter.cpp(87): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\code\mesheditor\utilities\src\meshformconverter.cpp(110): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LineCylinder.cpp
+c:\code\mesheditor\utilities\src\linecylinder.cpp(11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  HyperbolicGeometry.cpp
+  EuclideanGeometry2D.cpp
+  Circle.cpp
+  Dijkstra.cpp
+  Generating Code...
+  Utilities.vcxproj -> C:\Code\MeshEditor\x64\Debug\Utilities.lib
